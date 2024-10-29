@@ -82,5 +82,6 @@ public class Main {
           int result = mul * multipler;
           System.out.println(result);
         }
+
     }
 }
